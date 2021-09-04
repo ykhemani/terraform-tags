@@ -1,0 +1,4 @@
+owner     = "human"
+se-region = "AMER - Arctic E1"
+purpose   = "Tags demo."
+creator   = "human@hashicorp.com"
